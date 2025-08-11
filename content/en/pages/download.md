@@ -38,7 +38,7 @@ Age rating: 12+
 
 Story of Redflower | Message of Stars  | Interwoven Destinies 
 -- | -- | --
-![icon](/game_icons/redflower_pic.png) | ![icon](/game_icons/message_pic.png) | ![icon](/game_icons/interwoven_pic.png)
+![icon](https://6amb00.github.io/6amb00/game_icons/redflower_pic.png) | ![icon](/game_icons/message_pic.png) | ![icon](/game_icons/interwoven_pic.png)
 2017 | 2017 | 2019
 Languages: Russian, English | Languages: Russian, English | Languages: Russian, English
 ㅤ | French, Hungarian | ㅤ
