@@ -1,5 +1,5 @@
 title = "The Endless Hills"
-baseURL = ''
+baseURL = 'https://6amb00.github.io/6amb00/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
