@@ -20,7 +20,7 @@ author: The Endless Hills
 
 Хранитель Вод | Безумный шеф | ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   
 -- | -- | -- 
-![icon](/game_icons/lake_pic.png) | ![icon](/game_icons/chef_pic.png)  | ㅤ 
+![icon](https://6amb00.github.io/6amb00/game_icons/lake_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/chef_pic.png)  | ㅤ 
 2020 | 2021 | 
 Языки: русский | Языки: русский  |  ㅤ  
 <a href="https://drive.google.com/file/d/1NH5yn-cMJ3nYNK2kSWWBLNuKaaFBNGsx/view?usp=sharing" target="_blank">Скачать для windows</a> | <a href="https://drive.google.com/file/d/1wMhBx_Qmw_RS8oGP0ghr3YTEaqJ2LepC/view?usp=sharing" target="_blank">Скачать для windows</a>  |  ㅤ  
@@ -38,7 +38,7 @@ author: The Endless Hills
 
 История Горицвета | Послание Звёзд  | Переплетённые Cудьбы 
 -- | -- | --
-![icon](/game_icons/redflower_pic.png) | ![icon](/game_icons/message_pic.png) | ![icon](/game_icons/interwoven_pic.png)
+![icon](https://6amb00.github.io/6amb00/game_icons/redflower_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/message_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/interwoven_pic.png)
 2017 | 2017 | 2019
 Языки: русский, английский | Языки: русский, английский, | Языки: русский, английский
 ㅤ | французский, венгерский | ㅤ

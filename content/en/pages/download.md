@@ -20,7 +20,7 @@ By downloading either of these visual novels, you confirm that you are 18 or old
 
 Lake Spirit | Mad Chef | ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   ㅤ   
 -- | -- | -- 
-![icon](/game_icons/lake_pic.png) | ![icon](/game_icons/chef_pic.png)  | ㅤ 
+![icon](https://6amb00.github.io/6amb00/game_icons/lake_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/chef_pic.png)  | ㅤ 
 2020 | 2021 | 
 Languages: Russian | Languages: Russian  |  ㅤ  
 <a href="https://drive.google.com/file/d/1NH5yn-cMJ3nYNK2kSWWBLNuKaaFBNGsx/view?usp=sharing" target="_blank">Download for Windows</a> | <a href="https://drive.google.com/file/d/1wMhBx_Qmw_RS8oGP0ghr3YTEaqJ2LepC/view?usp=sharing" target="_blank">Download for Windows</a>  |  ㅤ ㅤ  
@@ -38,7 +38,7 @@ Age rating: 12+
 
 Story of Redflower | Message of Stars  | Interwoven Destinies 
 -- | -- | --
-![icon](https://6amb00.github.io/6amb00/game_icons/redflower_pic.png) | ![icon](/game_icons/message_pic.png) | ![icon](/game_icons/interwoven_pic.png)
+![icon](https://6amb00.github.io/6amb00/game_icons/redflower_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/message_pic.png) | ![icon](https://6amb00.github.io/6amb00/game_icons/interwoven_pic.png)
 2017 | 2017 | 2019
 Languages: Russian, English | Languages: Russian, English | Languages: Russian, English
 ㅤ | French, Hungarian | ㅤ
