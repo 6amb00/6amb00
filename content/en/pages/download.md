@@ -42,4 +42,4 @@ Story of Redflower | Message of Stars  | Interwoven Destinies
 2017 | 2017 | 2019
 Languages: Russian, English | Languages: Russian, English | Languages: Russian, English
 ㅤ | French, Hungarian | ㅤ
-<a href="https://drive.google.com/file/d/1OWsmHgMCxCcn5CLf2ZOiG_cXPCDcqdYU/view?usp=drive_link" target="_blank">Download for Windows</a> | <a href="https://drive.google.com/file/d/1co60HimJFH-EWxowXje-Z6SLNzoOrGAb/view?usp=sharing" target="_blank">Download for Windows</a> |  <a href="https://drive.google.com/file/d/1BI0EBgRY5fN0AO7RK-up5qov02MRhJzf/view?usp=sharing" target="_blank">Download for Windows</a>
+<a href="https://drive.google.com/file/d/1OWsmHgMCxCcn5CLf2ZOiG_cXPCDcqdYU/view?usp=drive_link" target="_blank">Download for Windows</a> | <a href="https://drive.google.com/file/d/1aylI1he-wQAtCbJq-dkeGlAglaj7VRUw/view?usp=sharing" target="_blank">Download for Windows</a> |  <a href="https://drive.google.com/file/d/1BI0EBgRY5fN0AO7RK-up5qov02MRhJzf/view?usp=sharing" target="_blank">Download for Windows</a>
