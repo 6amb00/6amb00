@@ -11,4 +11,14 @@ Our last visual novel came out in 2021. After that, each of us moved on — some
 Here on this site, you can still find and download all our old visual novels.
 
 Thank you to everyone who ever joined us in creating and testing these games:
-Bamboo, Ololoevna, Munchkin, iliagrich, Lum’s art, Stash_N, vee_elliot, Mind Owner, Deathpoint, Mehanoid, Blayzer, Cadra
+Bamboo, Ololoevna, iliagrich, Munchkin, Sprite, Mehanoid, Дарья Е., Buklove, Osyotr, LegitHoneyLeaf, Wulfgirl, Lum's art, Cadra, Jamitranslator, Boroka Varga, DeathPoint, Stash_N, futurelionheart, BlayzerQ, vee_elliot, Grapantry.
+
+Contacts:
+
+Mail: tehboo@yandex.ru | 
+<a href="https://discord.gg/H7ApGG4" target="_blank">Discord\*</a> |
+<a href="https://vk.com/theendlesshills" target="_blank">VK</a>
+
+>Please do not try to contact us via our old social media accounts (X*, Instagram*, Facebook*) or the email mail@theendlesshills.com — they were tied to our old domain, and we no longer have access to them.
+
+###### \* Organizations whose activities are prohibited in the Russian Federation
